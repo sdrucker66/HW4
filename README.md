@@ -247,4 +247,7 @@ $ curl http://localhost:3000/pgiPc2
 # A second read will result in "Not Found" message.
 $ curl http://localhost:3000/pgiPc2
 {"success":false,"error":404,"message":"Not Found"}
+
 ```
+
+![image](https://user-images.githubusercontent.com/45770541/112767976-a0079180-8fe7-11eb-8546-b91425b21252.png)
