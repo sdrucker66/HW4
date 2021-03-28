@@ -248,3 +248,6 @@ $ curl http://localhost:3000/pgiPc2
 $ curl http://localhost:3000/pgiPc2
 {"success":false,"error":404,"message":"Not Found"}
 ```
+
+
+![image](https://user-images.githubusercontent.com/45770541/112767964-89613a80-8fe7-11eb-8215-9adcc8629d42.png)
